@@ -1,4 +1,4 @@
-![Caos](https://github.com/Burrno/Burrno/caos_cortado.mp4)
+![Caos](https://github.com/Burrno/Burrno/blob/main/caos_cortado.mp4)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9B2CEF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Burno!;I'm+a+25+years+old+Mathematician+from+Brazil.;Interested+in+Data+Science+and+Dynamical+Systems!)](https://git.io/typing-svg) 
