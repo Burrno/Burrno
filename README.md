@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=1E90FF&height=120&section=header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=shark&color=1E90FF&height=120&section=header"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Burno!;I'm+a+25+years+old+Mathematician+from+Brazil.;Interested+in+Data+Science+and+Dynamical+Systems!)](https://git.io/typing-svg) 
 
